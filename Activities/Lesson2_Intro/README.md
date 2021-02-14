@@ -14,31 +14,42 @@ With the overwhelming business opportunities, how will payroll companies use the
 An all-in-one HR, Payroll, and Benefits platform.
 
 **Location:** 	Downtown Toronto, ON, Canada
+
 **Website:**	        https://www.humi.ca/ 
+
 **Sector:** 	        Technology
+
+
 **Industry:** 	        Software-Application
+
 **Clientele:** 	        Small to medium-sized companies
+
 **Number of Employees:** 51-100
+
 **Founded date:**       2016
+
 **Founders:**
-Simon Bourgeois, COO
-Matt Loszak
-Drew Millington
+- Simon Bourgeois, COO
+- Matt Loszak
+- Drew Millington
 
 **Investors**
-Tribe Capital (Lead)
-Sherpa Capital
-Y Combinator
-500 Startups
-Funders Club
-Garage Ventures
-Liquid 2 Ventures
-Struck Capital
+- Tribe Capital (Lead)
+- Sherpa Capital
+- Y Combinator
+- 500 Startups
+- Funders Club
+- Garage Ventures
+- Liquid 2 Ventures
+- Struck Capital
 
 **Funding Status:** 	Early Stage Venture
+
+
 **Funds Raised:** 	12,000,000 CAD (Series A) and 3,000,000 CAD (Debt Financing) as of June 23, 2020
 
 **Competitors**
+
 Canadian companies that provide cloud-based platforms for Human Resources, Payroll and Benefits. 
 - Avanti Software https://www.avanti.ca
 - Rise People https://risepeople.com/overview/ 
@@ -52,45 +63,47 @@ Canadian companies that provide cloud-based platforms for Human Resources, Payro
 - Flexibility in providing group benefits from any carrier
 
 **Humi’s Technology**
-Application and Data
-NGINX
-MySQL
-PostgreSQL
-TypeScript
-Amazon S3
-Amazon EC2
-Laravel
-Amazon CloudFront
-Rails
-Amazon RDS
-Angular 2 
-Amazon ElastiCache
 
-**Utilities**
-Google Analytics
-Postman
-Stripe
+**_Application and Data_**
+- NGINX
+- MySQL
+- PostgreSQL
+- TypeScript
+- Amazon S3
+- Amazon EC2
+- Laravel
+- Amazon CloudFront
+- Rails
+- Amazon RDS
+- Angular 2 
+- Amazon ElastiCache
 
-**DevOps**
-Jenkins
-Sentry
-Vagrant
-PHPUnit
-RSpec
-AWS Code Deploy
-AWS CodeBuild
-Ghost Inspector
+**_Utilities_**
+- Google Analytics
+- Postman
+- Stripe
 
-**Business Tools**
-Jira
-Zendesk
-ProductBoard
+**_DevOps_**
+- Jenkins
+- Sentry
+- Vagrant
+- PHPUnit
+- RSpec
+- AWS Code Deploy
+- AWS CodeBuild
+- Ghost Inspector
+
+***_Business Tools_**
+- Jira
+- Zendesk
+- ProductBoard
+
 
 # LANDSCAPE
 
 The following are the common features in HRIS that are categorized under business departments:
 
-#### HUMAN RESOURCES
+### HUMAN RESOURCES
 Recruitment
 Talent Management
 Recordkeeping
@@ -99,7 +112,7 @@ Training programs and assignment
 Performance monitoring
 Career planning
 
-#### BUSINESS OPERATIONS
+### BUSINESS OPERATIONS
 Time and attendance 
 Scheduling
 Vacation and time-off tracking
@@ -109,11 +122,12 @@ Payroll administration
 Benefits administration
 Tax filing and remittances
 
-#### TREASURY AND ACCOUNTING BANKING 
+### TREASURY AND ACCOUNTING BANKING 
 - Direct deposit 
 - Pay cheque processing
 - Automated payroll reconciliations
 
+# MAJOR COMPETITORS
 The major players in HRIS that have international presence and caters to all business sizes:
 - ADP
 - Ceridian
@@ -131,21 +145,21 @@ The agility of startup companies has been one of their key advantages over formi
 
 # RECOMMENDATIONS
 
-#### Business Intelligence and Analytics
+## **Business Intelligence and Analytics**
 
 Since labour costs, which includes salaries, wages, benefits, allowances, and payroll-related taxes, is among the top expenses of the company, the responsibility of watching over labour cost should only be a task of the Finance Department but must shared among other departments such as HR, Payroll, Business Operations, Legal, and IT. Thus, the need to place high importance in creating tools and services in reporting and analytics. 
 
 
-#### Solution focused: One-Hub Business
+## **Solution focused: One-Hub Business**
 
 To be full-fleged one-stop shop HRIS, these features and services should be considered to be part  of “nice-to-have” list. Most of these are already being offered by different companies either as part of their platform or a stand-alone service. 
 
-- Offer daily pay feature (DailyPay - US) versus the usual pay schedule frequencies: weekly, bi-weekly, bi-monthly, monthly, quarterly, and annually.
+1. **Offer daily pay feature (DailyPay - US).** versus the usual pay schedule frequencies: weekly, bi-weekly, bi-monthly, monthly, quarterly, and annually.
 
-- Offer more industry-specific customizations
+2. **Offer more industry-specific customizations.**
 Features such as Time and Attendance and Scheduling have a huge space for improvement as its functions differ in various industries. For example, shifts in retail and hospitality demand more flexibility in terms of employee availability, different work assignments with different pay rates, and overtime. Comparing it to a more rigid work schedule in manufacturing. 
 
-- Integrating with other lines of business:
+3. **Integrate with other lines of business.**
 
 **HUMAN CAPITAL MANAGEMENT** 
 - Community involvement and volunteer program
